@@ -1,7 +1,7 @@
 /* CSS Document */
 
-.bg {background:url(../images/player.png); _background:url(../images/player.gif);}
-.mode-bg {background:url(../images/mode.gif);}
+.bg {background:url(https://cdn.jsdelivr.net/gh/kylehao/out_h5music@v1.0/h5img/images/player.png); _background:url(https://cdn.jsdelivr.net/gh/kylehao/out_h5music@v1.0/h5img/images/player.gif);}
+.mode-bg {background:url(https://cdn.jsdelivr.net/gh/kylehao/out_h5music@v1.0/h5img/images/mode.gif);}
 .player {margin-left:auto; margin-right:auto; width:980px; height:35px;}
 .player-l{float:left; width:3px; height:35px; background-position:0px 0px;}
 .player-r{float:left; width:3px; height:35px; background-position:-11px 0px;}
